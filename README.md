@@ -1,4 +1,5 @@
-# Quotes from Living Enlightenment book, unabridged, 7th Edition
+# Quotes
+### from Living Enlightenment book, unabridged, 7th Edition
 
 page before table of contents:
 ```
