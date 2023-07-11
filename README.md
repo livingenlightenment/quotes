@@ -19,8 +19,8 @@ p4:
 p245:
 ```
 In any given moment, the future is predestined but conditionally.
-It will be a certain future according to all the totality of events till that time, this is the predestined future.
-But it is conditional.
+It will be a certain future according to all the totality of events till that time,
+this is the predestined future. But it is conditional.
 There is an important factor that can and will change it, it is your consciousness, your will.
 - KAILASA's SPH JGM HDH Bhagavan Sri Nithyananda Paramashivam
 ```
